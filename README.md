@@ -1,4 +1,4 @@
-# cs331-Project1
+# CS331-Project1
 
 This project was completed for my CS331 (Data Structures and Algorithms) class. I was tasked with the goal of defining a class, PairOfDice(), that would be composed of two individual dice objects. I would need to set and recall their values, create a method to roll these dice, and a method to print/output the sum of the two aforementioned dice.
 
